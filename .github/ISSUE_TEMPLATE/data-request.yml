@@ -1,0 +1,56 @@
+name: Data Set Request
+description: Use this form to submit a data set request for AWS Data Exchange.
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to submit a data set request! Fill out the form below to provide us with info.
+- type: input
+  attributes:
+    label: Data Provider Name
+    description: Who currently publishes the data?
+    placeholder: "Data Provider Name"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Data Provider URL(s)
+    description: Specify link(s) to the product(s) you would like to see on Amazon Data Exchange
+    placeholder: "https://www.example.com"
+  validations:
+    required: false
+- type: dropdown
+  attributes:
+    label: Cost
+    description: What kind of data is this?
+    options:
+      - Free
+      - Paid
+      - Unknown
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Delivery
+    multiple: true
+    description: What is your preferred delivery mechanism for the data?
+    options:
+      - S3
+      - Redshift
+      - API
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Company Name
+    description: What company, if applicable, is requesting this data?
+    placeholder: "Company Name"
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Description
+    description: How do you plan on using this data?
+    placeholder: "https://www.example.com"
+  validations:
+    required: false
