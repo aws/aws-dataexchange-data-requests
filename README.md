@@ -1,6 +1,6 @@
-## AWS Data Exchange: Data Requests
+# AWS Data Exchange: Data Requests
 
-### Introduction
+## Introduction
 
 We want customers to easily find, subscribe to, and use the third-party data they need in the cloud. This repository is how customers can see and create requests for data that may, but is not guaranteed to, be added to the [AWS Data Exchange Catalog](https://aws.amazon.com/marketplace/search/results?ref_=adx_hp_hr_brw&category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE). It contains information about what we are working on, and allows our customers to help us ensure we are prioritizing the most important requests.
 
@@ -10,7 +10,7 @@ If you have general feedback or questions about AWS Data Exchange, please contac
 
 To learn more about the service, visit https://aws.amazon.com/data-exchange.
 
-### FAQs
+## FAQs
 
 **Q: Why did you build this?**
 
@@ -43,10 +43,10 @@ A: You can use the general [Contact Us form](https://pages.awscloud.com/adx-cont
 
 A: No. This project is available to everyone to signal interest for data to be onboarded to AWS Data Exchange.
 
-### Security
+## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-### License Summary
+## License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
