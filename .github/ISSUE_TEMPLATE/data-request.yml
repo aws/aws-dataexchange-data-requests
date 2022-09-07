@@ -51,6 +51,5 @@ body:
   attributes:
     label: Description
     description: How do you plan on using this data?
-    placeholder: "https://www.example.com"
   validations:
     required: false

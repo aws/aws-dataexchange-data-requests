@@ -8,6 +8,7 @@ See all requests [here](https://github.com/aws/aws-dataexchange-data-requests/is
 
 If you have general feedback or questions about AWS Data Exchange, please contact us [here](https://pages.awscloud.com/adx-contact-dex-contact-us.html).
 
+To learn more about the service, visit https://aws.amazon.com/data-exchange.
 
 ### FAQs
 
@@ -49,7 +50,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ### License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
-
-The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
-
-To learn more about the service, visit https://aws.amazon.com/data-exchange.
