@@ -16,8 +16,7 @@ body:
   attributes:
     label: Data Provider URL(s)
     description: |
-      Specify link(s) to the product(s) (e.g., landing page, API reference) you would like
-      to see on Amazon Data Exchange.
+      Specify link(s) to the product(s) (e.g., landing page, API reference) you would like to see on Amazon Data Exchange.
     placeholder: "https://www.example.com"
   validations:
     required: true
