@@ -1,5 +1,5 @@
 name: Data Set Request
-description: Use this form to submit a data set request for AWS Data Exchange.
+description: Use this form to submit a new data set request for AWS Data Exchange.
 body:
 - type: markdown
   attributes:
