@@ -12,6 +12,13 @@ body:
     placeholder: "Data Provider Name"
   validations:
     required: true
+- type: input
+  attributes:
+    label: Change Address
+    description: What is your current Address?
+    placeholder: "123 Main Street, New York, NY 10030"
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Data Provider URL(s)
