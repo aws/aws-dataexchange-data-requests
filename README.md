@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We want customers to easily find, subscribe to, and use the third-party data they need in the cloud. This repository is how customers can see and create requests for data that may, but is not guaranteed to, be added to the [AWS Data Exchange Catalog](https://aws.amazon.com/marketplace/search/results?ref_=adx_hp_hr_brw&category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE). It contains information about what we are working on, and allows our customers to help us ensure we are prioritizing the most important requests.
+We want customers to easily find, subscribe to, and use the third-party data they need in the cloud. This repository is how customers can see and create requests for data that may be added by the relevant providers to the [AWS Data Exchange Catalog](https://aws.amazon.com/marketplace/search/results?ref_=adx_hp_hr_brw&category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE). It contains information about what we are working on, and allows our customers to help us ensure we are prioritizing the most important requests.
 
 See all requests [here](https://github.com/aws/aws-dataexchange-data-requests/issues).
 
