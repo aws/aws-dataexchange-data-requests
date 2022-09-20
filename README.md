@@ -4,7 +4,7 @@
 
 AWS Data Exchange makes it easy for customers to find, subscribe to, and use the third-party data they need in the cloud. We created this repository for customers so that they can let us know what data, and which providers, are most important to them. Based on what you tell us, we will prioritize the selection we look to add to the [catalog](https://aws.amazon.com/marketplace/search/results?ref_=adx_hp_hr_brw&category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE).
 
-See all requests [here](https://github.com/aws/aws-dataexchange-data-requests/issues).
+See all requests [here](https://github.com/aws/aws-dataexchange-data-requests/issues), and submit a new request using [this form](https://github.com/aws/aws-dataexchange-data-requests/issues/new?assignees=&labels=&template=data-request.yml).
 
 If you have general feedback or questions about AWS Data Exchange, please contact us [here](https://pages.awscloud.com/adx-contact-dex-contact-us.html).
 
