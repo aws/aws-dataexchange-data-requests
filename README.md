@@ -24,6 +24,8 @@ A: We rely on third-party data providers to on-board their data to AWS Data Exch
 
 A: Yes. [Publishing guidelines](https://docs.aws.amazon.com/data-exchange/latest/userguide/publishing-guidelines.html) for listing products on AWS Data Exchange and [Terms and Conditions](https://aws.amazon.com/marketplace/management/terms) for AWS Marketplace Providers restrict certain categories of data.
 
+Publicly-available data may be made available through [Open Data on AWS](https://aws.amazon.com/opendata). Data listed in the [Registry of Open Data on AWS](https://registry.opendata.aws/) are discoverable on AWS Data Exchange.
+
 **Q: What do the categories mean?**
 
 A:
